@@ -6,14 +6,17 @@
 2. Web Client :Developed using ASP.Net Framework
 ## Screenshots
 -------------------------------------
-1. Dashboard
-![GitHub Logo](/ReadmeImages/home_new.png)
+1. Loading Screen
+![GitHub Logo](/ReadmeImages/loading.png)
 
-2. Mail Service Dashboard
-![GitHub Logo](/ReadmeImages/mail.png)
+2. Login Screen
+![GitHub Logo](/ReadmeImages/login.png)
 
-3. Sql Service Dashboard
-![GitHub Logo](/ReadmeImages/susql.png)
+3. Quiz Interface Screen
+![GitHub Logo](/ReadmeImages/dashboard.png)
+
+4. Confirmation Sreen
+![GitHub Logo](/ReadmeImages/confirmation.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
