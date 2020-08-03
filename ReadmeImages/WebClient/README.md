@@ -5,18 +5,18 @@
 ![GitHub Logo](home.png)
 
 2. Login Screen
-![GitHub Logo](/ReadmeImages/webclient/login.png)
+![GitHub Logo](login.png)
 
 3. Quiz Interface Screen (Full Screen)
-![GitHub Logo](/ReadmeImages/webclient/active.png)
+![GitHub Logo](active.png)
 
 4. Confirmation Sreen
-![GitHub Logo](/ReadmeImages/webclient/success.png)
+![GitHub Logo](success.png)
 
 5. Register Sreen
-![GitHub Logo](/ReadmeImages/webclient/register.png)
+![GitHub Logo](register.png)
 
 6. Error Sreen
-![GitHub Logo](/ReadmeImages/webclient/error.png)
+![GitHub Logo](error.png)
 
 
