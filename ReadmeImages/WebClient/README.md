@@ -2,7 +2,7 @@
 ## web client screenshots
 -------------------------------------
 1. Home Screen
-(/home.png)
+![GitHub Logo](home.png)
 
 2. Login Screen
 ![GitHub Logo](/ReadmeImages/webclient/login.png)
