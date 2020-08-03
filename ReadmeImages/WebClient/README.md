@@ -7,13 +7,13 @@
 2. Login Screen
 ![GitHub Logo](login.png)
 
-3. Quiz Interface Screen (Full Screen)
+3. Quiz Interface Screen 
 ![GitHub Logo](active.png)
 
 4. Confirmation Sreen
 ![GitHub Logo](success.png)
 
-5. Register Sreen
+5. Registration Sreen
 ![GitHub Logo](register.png)
 
 6. Error Sreen
