@@ -68,8 +68,8 @@ namespace SiOAS
             }
             catch (Exception err)
             {
-                //Response.Redirect("Login");
-                Response.Redirect("#" + err.Message);
+                Response.Redirect("Login");
+                //Response.Redirect("#" + err.Message);
             }
         }
 
