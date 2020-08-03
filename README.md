@@ -12,7 +12,7 @@
 ![GitHub Logo](/ReadmeImages/login.png)
 
 3. Quiz Interface Screen (Full Screen)
-![GitHub Logo](/ReadmeImages/active.png)
+![GitHub Logo](/ReadmeImages/active_1.png)
 
 4. Confirmation Sreen
 ![GitHub Logo](/ReadmeImages/confirmation.png)
